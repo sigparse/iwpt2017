@@ -7,3 +7,7 @@ in the m4 directory instead. The menu and other common elements to all
 
 After changing a .m4 file, run make.
 
+The website at http://compling.ucdavis.edu/iwpt2017 uses this project
+as a submodule, so changes pushed to the repository are only visible 
+after a submodule update. 
+
