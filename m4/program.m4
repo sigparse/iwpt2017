@@ -1,4 +1,4 @@
-define(PAGE, `program.m4')
+define(PAGE, `program')
 include(`m4/prologue.m4')
 
 <h1>Program</h1>
