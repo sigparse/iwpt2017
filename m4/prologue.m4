@@ -56,9 +56,9 @@ define(`COMMENT',`')
                     MENUITEM(Home,index)
                     MENUITEM(Call for papers,callforpapers)
                     MENUITEM(Submission,submission)
-                    MENUITEM(For authors,forauthors)
+                    <!-- MENUITEM(For authors,forauthors) -->
                     MENUITEM(For participants,forparticipants)
-                    MENUITEM(Program,program)
+                    <!-- MENUITEM(Program,program) -->
                     MENUITEM(Invited talks,invitedtalks)
                 </ul>
             </div>

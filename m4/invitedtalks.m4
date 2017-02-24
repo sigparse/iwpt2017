@@ -5,6 +5,9 @@ include(`m4/prologue.m4')
 
 <br>
 
-<p>To be announced.</p>
+<p>
+IWPT 2017 will feature two invited speakers.
+More information will be available soon.
+</p>
 
 include(`m4/epilogue.m4')

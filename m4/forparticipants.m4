@@ -5,16 +5,11 @@ include(`m4/prologue.m4')
 
 <br>
 
-<h3>Venue</h3>
+<p>
+Information on the conference venue, accommondation,
+transportation, travel and visa will be available soon.
+Stay tuned!
+</p>
 
-<p>Comming soon!</p>
-
-<h3>Accommodation</h3>
-
-<p>Comming soon!</p>
-
-<h3>Travel and Visa</h3>
-
-<p>Comming soon!</p>
 
 include(`m4/epilogue.m4')
