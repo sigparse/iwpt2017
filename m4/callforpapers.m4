@@ -34,16 +34,29 @@ Europe through its international airport.  Please mark your calendars!
 </p>
 
 <p>
-As part of the overlapping programme for DepLing and IWPT 2017, there
-will be a shared task on Extrinsic Parser Evaluation (EPE), organized
-by a separate committee.  The goal of this parsing task is to try and
-shed light on the relative ‘utility’ of different types of dependency
-representations for downstream applications that depend on grammatical
-analysis.  For background and information on participation, see:
+IWPT 2017 will be collocated with the fourth International Conference
+on Dependency Linguistics (Depling 2017), which will immediately
+precede IWPT 2017 from September 18 to 20.
 </p>
 
 <p>
-<a href="http://epe.nlpl.eu">http://epe.nlpl.eu</a>
+As part of the overlapping programme for Depling and IWPT 2017, there
+will be a shared task on Extrinsic Parser Evaluation (EPE), organized
+by a separate committee.  The goal of this parsing task is to try and
+shed light on the relative ‘utility’ of different types of
+dependency representations for downstream applications that depend on
+grammatical analysis.  For more information, see:
+</p>
+
+<p>
+<ul>
+<li>
+Depling 2017: <a href="http://depling.org/depling2017/">http://depling.org/depling2017/</a>
+</li>
+<li>
+Shared task: <a href="http://epe.nlpl.eu/">http://epe.nlpl.eu/</a>
+</li>
+</ul>
 </p>
 
 <p>
