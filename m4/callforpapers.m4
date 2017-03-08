@@ -91,10 +91,6 @@ Parsing in machine translation (synchronous parsing; alignment by
   parsing; translation by parsing, etc.)
 </li>
 <li>
-Parsing in machine translation (synchronous parsing; alignment by
-  parsing; translation by parsing, etc.)
-</li>
-<li>
 Cognitive models of language processing
 </li>
 <li>
