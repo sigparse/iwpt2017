@@ -26,9 +26,16 @@ include(`m4/prologue.m4')
                 <p>
                     IWPT will be co-located with <a href="http://depling.org/depling2017">DepLing 2017</a>,
                     which will immediately precede IWPT from September 18 to 20. On September 20
-                    the two conferences will overlap and present the results of a joint shared task
-                    (more information coming soon).
+                    the two conferences will overlap and present the results of a joint shared task on <a href="http://epe.nlpl.eu/">Extrinsic Parser Evaluation (EPE)</a>.
                 </p>
+
+                <p>
+ 		  The submission site is open.  Submit your paper through the following page.
+ 		</p>
+ 
+ 	        <p>
+ 		  Submission page: <a href="https://www.softconf.com/i/iwpt2017/">https://www.softconf.com/i/iwpt2017/</a>
+ 		</p>
 
 
                 <br>
