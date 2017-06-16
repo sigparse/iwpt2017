@@ -17,7 +17,7 @@ http://compling.ucdavis.edu/iwpt2017</a></p>
 </center>
 
 <p>
-<h4>FIRST CALL FOR PAPERS</h4>
+<h4>CALL FOR PAPERS</h4>
 </p>
 
 <p>
@@ -63,6 +63,13 @@ Shared task: <a href="http://epe.nlpl.eu/">http://epe.nlpl.eu/</a>
 <h4>
 SUBMISSIONS
 </h4>
+</p>
+
+<p>
+Submit your paper through the following submission page:<br>
+<a href="https://www.softconf.com/i/iwpt2017/">
+https://www.softconf.com/i/iwpt2017/
+</a>
 </p>
 
 <p>
@@ -118,7 +125,7 @@ We invite paper submissions in two distinct tracks:
 </li>
 <li>
   short papers on smaller, focused contributions, work in progress,
-  negative results, surveys, or opinion pieces.
+  negative results, or opinion pieces.
 </li>
 </ul>
 </p>
@@ -197,9 +204,11 @@ PROGRAMME CHAIR
 <br>
 ORGANIZING CO-CHAIR
 <br>
-  Giuseppe Attardi, University of Pisa (Italy)
-<br>
-  Felice Dell’Orletta, Istituto di Linguistica Computazionale "A. Zampolli" - CNR - Pisa (Italy)
+Giuseppe Attardi, University of Pisa (Italy)<br>
+  Felice Dell’Orletta, ILC-CNR, Pisa (Italy)<br>
+  Alessandro Lenci, University of Pisa (Italy)<br>
+  Simonetta Montemagni, ILC-CNR, Pisa (Italy)<br>
+  Maria Simi, University of Pisa (Italy)<br>
 </p>
 
 include(`m4/epilogue.m4')
