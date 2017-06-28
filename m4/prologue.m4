@@ -56,6 +56,7 @@ define(`COMMENT',`')
                     MENUITEM(Home,index)
                     MENUITEM(Call for papers,callforpapers)
                     MENUITEM(Submission,submission)
+                    MENUITEM(Program committee, programcommittee)
                     <!-- MENUITEM(For authors,forauthors) -->
                     MENUITEM(For participants,forparticipants)
                     <!-- MENUITEM(Program,program) -->
