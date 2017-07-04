@@ -25,6 +25,7 @@ include(`m4/prologue.m4')
 <li>Mark-Jan	Nederhof</li>
 <li>Giorgio	Satta</li>
 <li>Natalie	Schluter</li>
+<li>Djamé	Seddah</li>
 <li>Hiroyuki	Shindo</li>
 <li>Weiwei	Sun</li>
 <li>Ivan	Titov</li>
