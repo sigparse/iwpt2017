@@ -17,7 +17,16 @@ http://compling.ucdavis.edu/iwpt2017</a></p>
 </center>
 
 <p>
-<h4>CALL FOR PAPERS</h4>
+<center>
+<h3>CALL FOR PAPERS</h3>
+</center>
+</p>
+
+
+<h4>DEADLINE EXTENSION</h4>
+<p>
+The deadline for paper submissions (regular and short) has been extended
+to <font color="red">Sunday, July 9, 2017, 11:59pm UTC-7</font>.
 </p>
 
 <p>
@@ -29,6 +38,18 @@ September 22, 2017, in Pisa, Italy, within easy reach of most of
 Europe through its international airport.  Please mark your calendars!
 </p>
 
+<h4>INVITED TALKS</h4>
+<p>
+As part of the main conference, there will be two invited talks:
+
+<ul>
+<li>Vera Demberg, Saarland University</li>
+<li>David Hall, Semantic Machines</li>
+</ul>
+
+</p>
+
+
 <p>
 <h4>JOINT DEPLING and IWPT SHARED TASK</h4>
 </p>
@@ -36,16 +57,10 @@ Europe through its international airport.  Please mark your calendars!
 <p>
 IWPT 2017 will be collocated with the fourth International Conference
 on Dependency Linguistics (Depling 2017), which will immediately
-precede IWPT 2017 from September 18 to 20.
-</p>
-
-<p>
-As part of the overlapping programme for Depling and IWPT 2017, there
-will be a shared task on Extrinsic Parser Evaluation (EPE), organized
-by a separate committee.  The goal of this parsing task is to try and
-shed light on the relative ‘utility’ of different types of
-dependency representations for downstream applications that depend on
-grammatical analysis.  For more information, see:
+precede IWPT 2017 from September 18 to 20. As part of the overlapping
+programme for Depling and IWPT 2017, there will be a shared task on 
+Extrinsic Parser Evaluation (EPE), organized by a separate committee.
+For more information, see:
 </p>
 
 <p>
@@ -144,7 +159,7 @@ SCHEDULE
 <p>
 <ul>
 <li>
- Wednesday, July 5, 2017: Submission of Papers
+ <font color="red">Wednesday, July 9, 2017 (extended)</font>: Submission of Papers
 </li>
 <li>
  Wednesday, August 9, 2017: Notification of Acceptance
@@ -177,8 +192,14 @@ following web site.
 <p>
 Submissions must be anonymous, i.e. not reveal author(s) on the title
 page or through self-references.  Papers must be submitted digitally,
-in PDF, and uploaded through the on-line conference system, which will
-open in early April.  Paper submissions that violate either of these
+in PDF, and uploaded through the online conference system:
+</p>
+<p>
+<a href="https://www.softconf.com/i/iwpt2017/">https://www.softconf.com/i/iwpt2017/</a>
+</p>
+
+<p>
+Paper submissions that violate either of these
 requirements will be returned without review.
 </p>
 
