@@ -28,10 +28,11 @@ include(`m4/prologue.m4')
 <li>Djamé	Seddah</li>
 <li>Hiroyuki	Shindo</li>
 <li>Weiwei	Sun</li>
+<li>Christoph	Teichmann</li>
 <li>Ivan	Titov</li>
 <li>Daniel	Zeman</li>
-<li>Yue	Zhang</li>
 <li>Yi	Zhang</li>
+<li>Yue	Zhang</li>
 <li>Hai	Zhao</li>
 </ul>
 
