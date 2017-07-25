@@ -47,12 +47,12 @@ define(`COMMENT',`')
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.html">
-                    <img src="iwpt2017logo.png" width="150px">
+                    <img src="iwpt2017logo.png" width="150px"/>
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
+		<ul class="nav navbar-nav">
                     MENUITEM(Home,index)
                     MENUITEM(Call for papers,callforpapers)
                     MENUITEM(Submission,submission)
@@ -61,9 +61,25 @@ define(`COMMENT',`')
                     MENUITEM(For participants,forparticipants)
                     <!-- MENUITEM(Program,program) -->
                     MENUITEM(Invited talks,invitedtalks)
+		</ul>
+	    </div>
+	    
+	    <br><br>
+
+ 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		<ul class="nav navbar-nav">
                     <li><a href="http://www.depling.org/depling2017/">Depling 2017</a></li>
                     <li><a href="http://epe.nlpl.eu/">EPE Shared Task</a></li>
                 </ul>
+		
+		<br><br>
+		<p>
+		    <font color="grey">Sponsored by:</font>
+		    <br>
+		    <a href="http://www.ai-lc.it">
+		        <img src="AILC_Logo_WEB_rev.png" width="190px" />
+		    </a>
+		</p>
             </div>
             <!-- /.navbar-collapse -->
         </div>

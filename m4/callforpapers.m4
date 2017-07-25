@@ -26,7 +26,7 @@ http://compling.ucdavis.edu/iwpt2017</a></p>
 <h4>DEADLINE EXTENSION</h4>
 <p>
 The deadline for paper submissions (regular and short) has been extended
-to <font color="red">Sunday, July 9, 2017, 11:59pm UTC-7</font>.
+to Sunday, July 9, 2017, 11:59pm UTC-7.
 </p>
 
 <p>
@@ -159,7 +159,7 @@ SCHEDULE
 <p>
 <ul>
 <li>
- <font color="red">Sunday, July 9, 2017, 11:59pm UTC-7 (extended)</font>: Submission of Papers
+Sunday, July 9, 2017, 11:59pm UTC-7 (extended): Submission of Papers
 </li>
 <li>
  Wednesday, August 9, 2017: Notification of Acceptance

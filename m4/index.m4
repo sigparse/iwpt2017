@@ -44,7 +44,7 @@ include(`m4/prologue.m4')
                     <table>
                         <tr>
                             <th>Submission deadline</th>
-                            <th><font color="red">Sunday, July 9, 2017, 11:59pm UTC-7 (extended)</font></th>
+                            <th>Sunday, July 9, 2017, 11:59pm UTC-7 (passed)</th>
                         </tr>
                         <tr>
                             <th>Notification of acceptance</th>
