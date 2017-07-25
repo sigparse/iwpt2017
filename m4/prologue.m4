@@ -61,13 +61,6 @@ define(`COMMENT',`')
                     MENUITEM(For participants,forparticipants)
                     <!-- MENUITEM(Program,program) -->
                     MENUITEM(Invited talks,invitedtalks)
-		</ul>
-	    </div>
-	    
-	    <br><br>
-
- 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-		<ul class="nav navbar-nav">
                     <li><a href="http://www.depling.org/depling2017/">Depling 2017</a></li>
                     <li><a href="http://epe.nlpl.eu/">EPE Shared Task</a></li>
                 </ul>

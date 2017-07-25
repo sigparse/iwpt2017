@@ -87,5 +87,12 @@ include(`m4/prologue.m4')
                     </ul>
                 </p>
 
+		<br><br>
+		<h3>Sponsored by:</h3>
+		<p>
+		    <a href="http://www.ai-lc.it">
+		        <img src="AILC_Logo_WEB.png" width="190px" />
+		    </a>
+		</p>
 
 include(`m4/epilogue.m4')
