@@ -77,7 +77,7 @@ define(`COMMENT',`')
 		    <font color="grey">Sponsored by:</font>
 		    <br>
 		    <a href="http://www.ai-lc.it">
-		        <img src="AILC_Logo_WEB_rev.png" width="190px" />
+		        <img src="AILC_Logo_WEB_Rev.png" width="190px" />
 		    </a>
 		</p>
             </div>
