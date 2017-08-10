@@ -1,4 +1,4 @@
-define(PAGE, `programcommittee')
+define(PAGE, `acceptedpapers')
 include(`m4/prologue.m4')
 
 <h1>Accepted Papers</h1>

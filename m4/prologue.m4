@@ -54,6 +54,7 @@ define(`COMMENT',`')
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav">
                     MENUITEM(Home,index)
+                    MENUITEM(Accepted papers, acceptedpapers)
                     MENUITEM(Call for papers,callforpapers)
                     MENUITEM(Submission,submission)
                     MENUITEM(Program committee, programcommittee)
