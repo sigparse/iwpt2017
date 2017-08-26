@@ -54,13 +54,12 @@ define(`COMMENT',`')
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav">
                     MENUITEM(Home,index)
-                    MENUITEM(Accepted papers, acceptedpapers)
-                    MENUITEM(Call for papers,callforpapers)
-                    MENUITEM(Submission,submission)
+		    MENUITEM(Program,program)
+		    MENUITEM(Call for papers,callforpapers)
+                    <!-- MENUITEM(Submission,submission) -->
                     MENUITEM(Program committee, programcommittee)
                     <!-- MENUITEM(For authors,forauthors) -->
                     MENUITEM(For participants,forparticipants)
-                    <!-- MENUITEM(Program,program) -->
                     MENUITEM(Invited talks,invitedtalks)
                     <li><a href="http://www.depling.org/depling2017/">Depling 2017</a></li>
                     <li><a href="http://epe.nlpl.eu/">EPE Shared Task</a></li>

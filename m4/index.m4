@@ -33,7 +33,7 @@ include(`m4/prologue.m4')
                 <br>
                 <h2>News</h2>
                 <p>
-                   The list of <a href="acceptedpapers.html">accepted papers</a> is now available.
+                   The <a href="program.html">conference program</a> is now available.
                 </p>
 
                 <br>
