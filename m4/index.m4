@@ -31,10 +31,19 @@ include(`m4/prologue.m4')
                 </p>
 
                 <br>
-                <h2>News</h2>
+                <h2>Registration</h2>
                 <p>
-                   The <a href="program.html">conference program</a> is now available.
+                Early registration deadline: August 31, 2017
                 </p>
+                <p><a href="http://depling-iwpt2017.di.unipi.it/registration">Register online</a>.
+                </p>
+                <br>
+                <h2>News</h2>
+                <ul>
+                <li>
+                   The <a href="program.html">conference program</a> is now available.
+                </li>
+                </ul>
 
                 <br>
                 <h2>Important dates</h2>

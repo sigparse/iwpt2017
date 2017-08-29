@@ -55,12 +55,13 @@ define(`COMMENT',`')
 		<ul class="nav navbar-nav">
                     MENUITEM(Home,index)
 		    MENUITEM(Program,program)
+                    MENUITEM(Invited talks,invitedtalks)
+                    MENUITEM(For participants,forparticipants)
 		    MENUITEM(Call for papers,callforpapers)
                     <!-- MENUITEM(Submission,submission) -->
                     MENUITEM(Program committee, programcommittee)
                     <!-- MENUITEM(For authors,forauthors) -->
-                    MENUITEM(For participants,forparticipants)
-                    MENUITEM(Invited talks,invitedtalks)
+                    <li><a href="http://depling-iwpt2017.di.unipi.it/registration">Registration</a></li>
                     <li><a href="http://www.depling.org/depling2017/">Depling 2017</a></li>
                     <li><a href="http://epe.nlpl.eu/">EPE Shared Task</a></li>
                 </ul>
