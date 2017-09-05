@@ -11,7 +11,7 @@ include(`m4/prologue.m4')
 <li>Anders	Björkelund  (IMS, Stuttgart)</li>
 <li>Philippe	Blache	    (LPL CNRS)</li>
 <li>Harry	Bunt	    (Tilburg University)</li>
-<li>Xavier	Carreras    (Xerox Research Centre Europe)</li>
+<li>Xavier	Carreras    (Naver Labs)</li>
 <li>John	Carroll	    (University of Sussex)</li>
 <li>Wanxiang	Che	    (Harbin Institute of Technology)</li>
 <li>David	Chiang	    (University of Notre Dame)</li>
