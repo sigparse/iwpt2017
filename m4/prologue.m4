@@ -55,6 +55,7 @@ define(`COMMENT',`')
 		<ul class="nav navbar-nav">
                     MENUITEM(Home,index)
 		    MENUITEM(Program,program)
+                    <li><a href="proceedings/index.html">Proceedings</a></li>
                     MENUITEM(Invited talks,invitedtalks)
                     MENUITEM(For participants,forparticipants)
 		    MENUITEM(Call for papers,callforpapers)

@@ -40,6 +40,9 @@ include(`m4/prologue.m4')
                 <br>
                 <h2>News</h2>
                 <ul>
+		<li>
+                   The <a href="proceedings/index.html">conference proceedings</a> are now available.
+                </li>
                 <li>
                    The <a href="program.html">conference program</a> is now available.
                 </li>
